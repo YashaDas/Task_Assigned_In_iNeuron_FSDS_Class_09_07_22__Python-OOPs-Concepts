@@ -1,0 +1,173 @@
+INFO 2022-07-14 00:07:27,278 root This is a class called ineuron6
+INFO 2022-07-14 00:07:27,278 root Creating methods in the class inuron6
+INFO 2022-07-14 00:07:27,278 root This is a class called ineuron_6
+INFO 2022-07-14 00:07:27,278 root Creating methods in the class inuron_6
+INFO 2022-07-14 00:07:27,278 root This is a class called ineuron_6_
+INFO 2022-07-14 00:07:27,278 root Creating method in the ineuron_6_ class
+INFO 2022-07-14 00:07:27,278 root This is a class called i6
+INFO 2022-07-14 00:07:27,278 root List out the details of all the ineuron students
+INFO 2022-07-14 00:07:27,278 root List out all the courses offered by ineuron
+INFO 2022-07-14 00:07:27,278 root List out the details of all the job guarantee courses offered by ineuron
+INFO 2022-07-14 00:07:27,278 root List out all the student login details
+INFO 2022-07-14 00:07:27,278 root List out all the student login details
+INFO 2022-07-14 00:07:27,278 root List out all the internship field available
+INFO 2022-07-14 00:07:27,278 root List out the details of all the ineuron students
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out all the courses offered by ineuron
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the details of all the job guarantee courses offered by ineuron
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out all the student login details
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out all the student login details
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out all the internship field available
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root This is a class called student6
+INFO 2022-07-14 00:07:27,278 root Creating methods in the class called student6
+INFO 2022-07-14 00:07:27,278 root This is a class called student_6
+INFO 2022-07-14 00:07:27,278 root Creating methods in the class called student_6
+INFO 2022-07-14 00:07:27,278 root This is a class called student_6_
+INFO 2022-07-14 00:07:27,278 root List out the names of all the students
+INFO 2022-07-14 00:07:27,278 root List out the enrollment numbers of all the students
+INFO 2022-07-14 00:07:27,278 root List out the id numbers of all the students
+INFO 2022-07-14 00:07:27,278 root List out the all course names taken by the student
+INFO 2022-07-14 00:07:27,278 root List out the duration of each individual course
+INFO 2022-07-14 00:07:27,278 root List out the names of all the students
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the enrollment numbers of all the students
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the id numbers of all the students
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the all course names taken by the student
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the duration of each individual course
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root This is a class called courses6
+INFO 2022-07-14 00:07:27,278 root Creating methods in the courses6 class
+INFO 2022-07-14 00:07:27,278 root This is another class called courses_6
+INFO 2022-07-14 00:07:27,278 root Creating methods in the course_6 class
+INFO 2022-07-14 00:07:27,278 root This is another class called courses_6_
+INFO 2022-07-14 00:07:27,278 root List out the name of all the courses offered
+INFO 2022-07-14 00:07:27,278 root List out the number of courses offered
+INFO 2022-07-14 00:07:27,278 root List out the course duration of each individual course
+INFO 2022-07-14 00:07:27,278 root List out the number of modules in each course respectively
+INFO 2022-07-14 00:07:27,278 root List out the name of all the courses offered
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the number of courses offered
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the course duration of each individual course
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the number of modules in each course respectively
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root This is a class called blogs6
+INFO 2022-07-14 00:07:27,278 root Creating methods in the blogs6 class
+INFO 2022-07-14 00:07:27,278 root This is a class called blogs_6
+INFO 2022-07-14 00:07:27,278 root Creating methods inside the blogs_6 class
+INFO 2022-07-14 00:07:27,278 root This is another class called blogs_6_
+INFO 2022-07-14 00:07:27,278 root List out only the titles of the blogs on the website
+INFO 2022-07-14 00:07:27,278 root List out the number of blogs based on the individual categories
+INFO 2022-07-14 00:07:27,278 root List out the different categories
+INFO 2022-07-14 00:07:27,278 root List the archives on the website
+INFO 2022-07-14 00:07:27,278 root List out only the titles of the blogs on the website
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the number of blogs based on the individual categories
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the different categories
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List the archives on the website
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root This is a class called internship6
+INFO 2022-07-14 00:07:27,278 root Creating methods in the internship6 class
+INFO 2022-07-14 00:07:27,278 root This is another class called internship_6
+INFO 2022-07-14 00:07:27,278 root Creating methods in the internship_6 class
+INFO 2022-07-14 00:07:27,278 root This is another class called internship_6_
+INFO 2022-07-14 00:07:27,278 root List out the names of all the students that are in the internship program
+INFO 2022-07-14 00:07:27,278 root List out the id number of all the students
+INFO 2022-07-14 00:07:27,278 root List all the names of the domains that are available for download
+INFO 2022-07-14 00:07:27,278 root List out the duration of internship according to each individual domain
+INFO 2022-07-14 00:07:27,278 root List out the names of all the students that are in the internship program
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the id number of all the students
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List all the names of the domains that are available for download
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the duration of internship according to each individual domain
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root This is a class called ineuron5
+INFO 2022-07-14 00:07:27,278 root Creating methods inside the ineuron5 class
+INFO 2022-07-14 00:07:27,278 root This is a class called FSDS
+INFO 2022-07-14 00:07:27,278 root Creating method inside the FSDS class
+INFO 2022-07-14 00:07:27,278 root This is a class called FSDS_student_portal
+INFO 2022-07-14 00:07:27,278 root List out all the courses that are offered
+INFO 2022-07-14 00:07:27,278 root List out all the courses that are offered
+INFO 2022-07-14 00:07:27,278 root List all the modules that needs to be completed to finish the entire FSDS course
+INFO 2022-07-14 00:07:27,278 root List out all the courses that are offered
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out all the courses that are offered
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List all the modules that needs to be completed to finish the entire FSDS course
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root This is a class called jobs5
+INFO 2022-07-14 00:07:27,278 root Creating methods inside jobs5 class
+INFO 2022-07-14 00:07:27,278 root This is a class called jobs_5
+INFO 2022-07-14 00:07:27,278 root Creating methods inside the jobs_5 class
+INFO 2022-07-14 00:07:27,278 root This is a class called jobs_5_
+INFO 2022-07-14 00:07:27,278 root List out the names of all the employees
+INFO 2022-07-14 00:07:27,278 root List of the id number of the all the employees
+INFO 2022-07-14 00:07:27,278 root List out the desigination of all the employees
+INFO 2022-07-14 00:07:27,278 root List out the salaries of all the employees
+INFO 2022-07-14 00:07:27,278 root List out the names of all the employees
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List of the id number of the all the employees
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the desigination of all the employees
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the salaries of all the employees
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root This is a class called affilates5
+INFO 2022-07-14 00:07:27,278 root Creating methods in the affilates5 class
+INFO 2022-07-14 00:07:27,278 root This is a class called affilates_5
+INFO 2022-07-14 00:07:27,278 root Creating methods in the affilates_5 class
+INFO 2022-07-14 00:07:27,278 root This is a class called affilates_5_
+INFO 2022-07-14 00:07:27,278 root List out the name of all the affilates
+INFO 2022-07-14 00:07:27,278 root List out the function of each affilates
+INFO 2022-07-14 00:07:27,278 root List out the numbers of affilates
+INFO 2022-07-14 00:07:27,278 root List out the name of all the affilates
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the function of each affilates
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the numbers of affilates
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root This is a class called class_type5
+INFO 2022-07-14 00:07:27,278 root Creating methods in the class_type5 class
+INFO 2022-07-14 00:07:27,278 root This is a class called class_type_5
+INFO 2022-07-14 00:07:27,278 root Creating methods in the class_type_5 class
+INFO 2022-07-14 00:07:27,278 root This is a class called class_type_5
+INFO 2022-07-14 00:07:27,278 root List out the names of all the students
+INFO 2022-07-14 00:07:27,278 root List out the name of all the courses
+INFO 2022-07-14 00:07:27,278 root List out the number of modules in each course
+INFO 2022-07-14 00:07:27,278 root List out the duration of each course
+INFO 2022-07-14 00:07:27,278 root List out the names of all the students
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the name of all the courses
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the number of modules in each course
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the duration of each course
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root This is a class called hackathon5
+INFO 2022-07-14 00:07:27,278 root Creating methods in the hackathon5 class
+INFO 2022-07-14 00:07:27,278 root This is a class called hackathon_5
+INFO 2022-07-14 00:07:27,278 root Creating methods in the hackathon_5 class
+INFO 2022-07-14 00:07:27,278 root This is a class called hackathon_5_
+INFO 2022-07-14 00:07:27,278 root List out the names of all the teams
+INFO 2022-07-14 00:07:27,278 root List out the number of team members in each team
+INFO 2022-07-14 00:07:27,278 root List out the project titles
+INFO 2022-07-14 00:07:27,278 root List out the names of all the teams
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the number of team members in each team
+INFO 2022-07-14 00:07:27,278 root None
+INFO 2022-07-14 00:07:27,278 root List out the project titles
+INFO 2022-07-14 00:07:27,278 root None

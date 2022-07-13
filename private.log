@@ -1,0 +1,46 @@
+INFO 2022-07-14 00:09:42,364 root This is a class called ineuron1
+INFO 2022-07-14 00:09:42,364 root Creating private variables inside the constructor for ineuron1 class
+INFO 2022-07-14 00:09:42,364 root Alice Wonderland
+INFO 2022-07-14 00:09:42,364 root 1
+INFO 2022-07-14 00:09:42,364 root This is a class called student1
+INFO 2022-07-14 00:09:42,364 root Creating private variables inside the constructor for student1 class
+INFO 2022-07-14 00:09:42,364 root Bella
+INFO 2022-07-14 00:09:42,364 root 12345
+INFO 2022-07-14 00:09:42,364 root 102
+INFO 2022-07-14 00:09:42,364 root This is a class called courses1
+INFO 2022-07-14 00:09:42,364 root Creating private variables inside the constructor for courses1 class
+INFO 2022-07-14 00:09:42,364 root Data Science
+INFO 2022-07-14 00:09:42,364 root 1
+INFO 2022-07-14 00:09:42,364 root This is a class called blogs1
+INFO 2022-07-14 00:09:42,364 root Creating private variables inside the constructor for blogs1 class
+INFO 2022-07-14 00:09:42,364 root This is a blog title
+INFO 2022-07-14 00:09:42,364 root 2
+INFO 2022-07-14 00:09:42,364 root This is a class called internship1
+INFO 2022-07-14 00:09:42,364 root Creating private variables inside the constructor for internship1 class
+INFO 2022-07-14 00:09:42,364 root AlpaBeta
+INFO 2022-07-14 00:09:42,364 root 103
+INFO 2022-07-14 00:09:42,364 root Blockchain
+INFO 2022-07-14 00:09:42,364 root 6 months
+INFO 2022-07-14 00:09:42,364 root This is a class called jobs1
+INFO 2022-07-14 00:09:42,364 root Creating private variables inside the constructor for jobs1 class
+INFO 2022-07-14 00:09:42,364 root Jimmy Xyz
+INFO 2022-07-14 00:09:42,364 root 1009
+INFO 2022-07-14 00:09:42,364 root 30000
+INFO 2022-07-14 00:09:42,364 root This is a class called affilates1
+INFO 2022-07-14 00:09:42,364 root Creating private variables inside the constructor for affilates1 class
+INFO 2022-07-14 00:09:42,364 root ABC Vision
+INFO 2022-07-14 00:09:42,364 root 1
+INFO 2022-07-14 00:09:42,364 root This is a class called class_type1
+INFO 2022-07-14 00:09:42,364 root Creating private variables inside the constructor for class_type1 class
+INFO 2022-07-14 00:09:42,364 root sun moon
+INFO 2022-07-14 00:09:42,364 root Geography
+INFO 2022-07-14 00:09:42,364 root This is a class called student_portal1
+INFO 2022-07-14 00:09:42,364 root Creating a constructor for the student_portal class
+INFO 2022-07-14 00:09:42,364 root Creating private variables inside the constructor for student_portal1 class
+INFO 2022-07-14 00:09:42,364 root 1004
+INFO 2022-07-14 00:09:42,364 root password123
+INFO 2022-07-14 00:09:42,364 root This is a class called hackathon1
+INFO 2022-07-14 00:09:42,364 root Creating private variables inside the constructor for hackathon1 class
+INFO 2022-07-14 00:09:42,364 root Dashers
+INFO 2022-07-14 00:09:42,364 root 5
+INFO 2022-07-14 00:09:42,364 root This is a project title

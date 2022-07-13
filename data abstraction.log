@@ -1,0 +1,50 @@
+INFO 2022-07-14 00:06:01,792 root This is a class called ineuron7
+INFO 2022-07-14 00:06:01,792 root Creating a private variable called __name_of_course
+INFO 2022-07-14 00:06:01,792 root Creating a method called name_of_course
+INFO 2022-07-14 00:06:01,792 root None
+INFO 2022-07-14 00:06:01,792 root Data Science
+INFO 2022-07-14 00:06:01,792 root This is a class called student7
+INFO 2022-07-14 00:06:01,792 root Creating a private variable called __id_no7
+INFO 2022-07-14 00:06:01,792 root Creating a method called id_no7
+INFO 2022-07-14 00:06:01,792 root None
+INFO 2022-07-14 00:06:01,792 root 1007
+INFO 2022-07-14 00:06:01,792 root This is a class called courses7
+INFO 2022-07-14 00:06:01,792 root Creating a private variable called __course_name7
+INFO 2022-07-14 00:06:01,792 root Creating a method called course_name7
+INFO 2022-07-14 00:06:01,792 root None
+INFO 2022-07-14 00:06:01,792 root Blockchain
+INFO 2022-07-14 00:06:01,792 root This is a class called blogs7
+INFO 2022-07-14 00:06:01,792 root Creating a private variable called __blog_title7
+INFO 2022-07-14 00:06:01,792 root Creating a method called blog_title7
+INFO 2022-07-14 00:06:01,792 root None
+INFO 2022-07-14 00:06:01,792 root This is a blog title 7
+INFO 2022-07-14 00:06:01,792 root This is a class called internship7
+INFO 2022-07-14 00:06:01,792 root Creating a private class called __student_name7
+INFO 2022-07-14 00:06:01,792 root Creating a method called student_name7
+INFO 2022-07-14 00:06:01,792 root None
+INFO 2022-07-14 00:06:01,792 root Sophie Xyzwuv
+INFO 2022-07-14 00:06:01,792 root This is a class called jobs7
+INFO 2022-07-14 00:06:01,792 root Creating a private variable called __emp_salary7
+INFO 2022-07-14 00:06:01,792 root Creating a method called emp_salary7
+INFO 2022-07-14 00:06:01,792 root None
+INFO 2022-07-14 00:06:01,792 root 50000
+INFO 2022-07-14 00:06:01,792 root This is a class called affilates7
+INFO 2022-07-14 00:06:01,792 root Creating a private variable called __affilates_name7
+INFO 2022-07-14 00:06:01,792 root Creating a method called affilates_name7
+INFO 2022-07-14 00:06:01,792 root None
+INFO 2022-07-14 00:06:01,792 root Python Bascis Limited
+INFO 2022-07-14 00:06:01,792 root This is a class called class_type7
+INFO 2022-07-14 00:06:01,792 root Creating a private variable called __course_name7
+INFO 2022-07-14 00:06:01,792 root Creating a method called course_name7
+INFO 2022-07-14 00:06:01,792 root None
+INFO 2022-07-14 00:06:01,792 root Computer Science
+INFO 2022-07-14 00:06:01,792 root This is a class called student_portal7
+INFO 2022-07-14 00:06:01,792 root Creating a private variable called __student_id7
+INFO 2022-07-14 00:06:01,792 root Creating a method called student_id7
+INFO 2022-07-14 00:06:01,792 root None
+INFO 2022-07-14 00:06:01,792 root 1004
+INFO 2022-07-14 00:06:01,792 root This is a class called hackathon7
+INFO 2022-07-14 00:06:01,792 root Creating a private variable called __no_of_team_members7
+INFO 2022-07-14 00:06:01,792 root Creating a method called no_of_team_members7
+INFO 2022-07-14 00:06:01,792 root None
+INFO 2022-07-14 00:06:01,792 root 8

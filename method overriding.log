@@ -1,0 +1,99 @@
+INFO 2022-07-14 00:08:22,497 root This is a class called ineuron3
+INFO 2022-07-14 00:08:22,499 root Creating different methods
+INFO 2022-07-14 00:08:22,499 root This is another class called ineuron_3
+INFO 2022-07-14 00:08:22,499 root Creating an ovveriding method
+INFO 2022-07-14 00:08:22,499 root List the names of all the student enrolled in ineuron3
+INFO 2022-07-14 00:08:22,499 root List the names of all the student enrolled in ineuron3
+INFO 2022-07-14 00:08:22,499 root None
+INFO 2022-07-14 00:08:22,499 root List the names of only those students that are enrolled in the FSDS course
+INFO 2022-07-14 00:08:22,499 root List the names of only those students that are enrolled in the FSDS course
+INFO 2022-07-14 00:08:22,499 root None
+INFO 2022-07-14 00:08:22,500 root This is a class called student3
+INFO 2022-07-14 00:08:22,500 root Creating different methods
+INFO 2022-07-14 00:08:22,500 root This is another class called student_3
+INFO 2022-07-14 00:08:22,500 root Creating an overriding method
+INFO 2022-07-14 00:08:22,500 root List out the id number of all the students
+INFO 2022-07-14 00:08:22,500 root List out the id number of all the students
+INFO 2022-07-14 00:08:22,500 root None
+INFO 2022-07-14 00:08:22,500 root List out the id number of only those students whose id number ends with 3
+INFO 2022-07-14 00:08:22,500 root List out the id number of only those students whose id number ends with 3
+INFO 2022-07-14 00:08:22,500 root None
+INFO 2022-07-14 00:08:22,500 root This is a class called course3
+INFO 2022-07-14 00:08:22,500 root Creating different methods
+INFO 2022-07-14 00:08:22,500 root This is another class called courses_3
+INFO 2022-07-14 00:08:22,500 root Creating an overriding method
+INFO 2022-07-14 00:08:22,500 root List out all the names of the courses offered
+INFO 2022-07-14 00:08:22,500 root List out all the names of the courses offered
+INFO 2022-07-14 00:08:22,501 root None
+INFO 2022-07-14 00:08:22,501 root List the names that are being offered in this semester only
+INFO 2022-07-14 00:08:22,501 root List out all the names of the courses offered
+INFO 2022-07-14 00:08:22,501 root None
+INFO 2022-07-14 00:08:22,501 root This is a class called blogs3
+INFO 2022-07-14 00:08:22,501 root Creating different methods
+INFO 2022-07-14 00:08:22,501 root This is another class called blog_3
+INFO 2022-07-14 00:08:22,501 root Creating an overriding method
+INFO 2022-07-14 00:08:22,501 root List out all the blogs available on the website
+INFO 2022-07-14 00:08:22,502 root List out all the blogs available on the website
+INFO 2022-07-14 00:08:22,502 root None
+INFO 2022-07-14 00:08:22,502 root List out only the blogs related to Data Science
+INFO 2022-07-14 00:08:22,502 root List out only the blogs related to Data Science
+INFO 2022-07-14 00:08:22,502 root None
+INFO 2022-07-14 00:08:22,502 root This is a class called internship3
+INFO 2022-07-14 00:08:22,502 root Creating different methods
+INFO 2022-07-14 00:08:22,502 root This is another class called internship_3
+INFO 2022-07-14 00:08:22,502 root Creating an overriding method
+INFO 2022-07-14 00:08:22,502 root List out the names of all the students
+INFO 2022-07-14 00:08:22,502 root List out the names of all the students
+INFO 2022-07-14 00:08:22,502 root None
+INFO 2022-07-14 00:08:22,502 root List out only the name of students that are eligible for internship
+INFO 2022-07-14 00:08:22,502 root List out only the name of students that are eligible for internship
+INFO 2022-07-14 00:08:22,502 root None
+INFO 2022-07-14 00:08:22,502 root This is a class called jobs3
+INFO 2022-07-14 00:08:22,502 root Creating different methods
+INFO 2022-07-14 00:08:22,502 root This is another class called jobs_3
+INFO 2022-07-14 00:08:22,502 root Creating an overriding method
+INFO 2022-07-14 00:08:22,503 root List out the salary of all the employees
+INFO 2022-07-14 00:08:22,503 root List out the salary of all the employees
+INFO 2022-07-14 00:08:22,503 root None
+INFO 2022-07-14 00:08:22,503 root List out the salaries of only the employees working in the data department
+INFO 2022-07-14 00:08:22,503 root None
+INFO 2022-07-14 00:08:22,503 root This is a class called affilates3
+INFO 2022-07-14 00:08:22,503 root Creating different methods
+INFO 2022-07-14 00:08:22,503 root This is another class called affilates_3
+INFO 2022-07-14 00:08:22,503 root Creating an overriding method
+INFO 2022-07-14 00:08:22,503 root List out the name of all the affilates
+INFO 2022-07-14 00:08:22,503 root List out the name of all the affilates
+INFO 2022-07-14 00:08:22,503 root None
+INFO 2022-07-14 00:08:22,503 root List out the name of affilates that are related to finance sector
+INFO 2022-07-14 00:08:22,503 root List out the name of affilates that are related to finance sector
+INFO 2022-07-14 00:08:22,503 root None
+INFO 2022-07-14 00:08:22,504 root This is a class called class_type3
+INFO 2022-07-14 00:08:22,504 root Creating different methods
+INFO 2022-07-14 00:08:22,504 root This is another class called class_type_3
+INFO 2022-07-14 00:08:22,504 root Creating an overriding method
+INFO 2022-07-14 00:08:22,504 root List out the names of all the courses offered
+INFO 2022-07-14 00:08:22,504 root List out the names of all the courses offered
+INFO 2022-07-14 00:08:22,504 root None
+INFO 2022-07-14 00:08:22,504 root List out only the name of courses that are being offered this semester
+INFO 2022-07-14 00:08:22,504 root List out only the name of courses that are being offered this semester
+INFO 2022-07-14 00:08:22,504 root None
+INFO 2022-07-14 00:08:22,504 root This is a class called student_portal3
+INFO 2022-07-14 00:08:22,504 root Creating different methods
+INFO 2022-07-14 00:08:22,505 root This is another class called student_portal_3
+INFO 2022-07-14 00:08:22,505 root Creating an overriding function
+INFO 2022-07-14 00:08:22,505 root List out the id number of all the students
+INFO 2022-07-14 00:08:22,505 root List out the id number of all the students
+INFO 2022-07-14 00:08:22,505 root None
+INFO 2022-07-14 00:08:22,505 root List out the id number of only those students that have registered for this session
+INFO 2022-07-14 00:08:22,505 root List out the id number of only those students that have registered for this session
+INFO 2022-07-14 00:08:22,505 root None
+INFO 2022-07-14 00:08:22,505 root This is a class called hackathon3
+INFO 2022-07-14 00:08:22,505 root Creating different methods
+INFO 2022-07-14 00:08:22,505 root This is another class called hackathon_3
+INFO 2022-07-14 00:08:22,505 root Creating an overriding method
+INFO 2022-07-14 00:08:22,505 root List out the total number of team members
+INFO 2022-07-14 00:08:22,505 root List out the total number of team members
+INFO 2022-07-14 00:08:22,505 root None
+INFO 2022-07-14 00:08:22,505 root List out the number of team memebers in each team
+INFO 2022-07-14 00:08:22,505 root List out the number of team memebers in each team
+INFO 2022-07-14 00:08:22,505 root None
